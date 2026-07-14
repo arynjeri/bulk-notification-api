@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Run migrations
 
 ```bash
-python manage.py migrate # cretes the required db tables
+python manage.py migrate # creates the required db tables
 ```
 
 Start the server
