@@ -139,7 +139,3 @@ Create an administrator account using
 ```bash
 python manage.py createsuperuser
 ```
-
-## Author
-
-**Mary Mburu**
